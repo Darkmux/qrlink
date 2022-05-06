@@ -17,9 +17,9 @@ yes|pkg update && pkg upgrade
 ```bash
 termux-setup-storage
 ```
-> Install "git" version control software.
+> Install "git" and "python3".
 ```bash
-yes|pkg install git
+yes|pkg install git python
 ```
 > Clone github repository.
 ```bash
@@ -33,3 +33,8 @@ cd qrlink
 ```bash
 chmod 777 *.sh
 ```
+> Install python3 modules.
+```bash
+python3 -m pip install -r requirements.txt
+```
+# Usage

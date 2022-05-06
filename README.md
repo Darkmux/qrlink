@@ -38,3 +38,7 @@ chmod 777 *.sh
 python3 -m pip install -r requirements.txt
 ```
 # Usage
+> Run the file, assign a link as the first argument and the path to save the image to as the second argument.
+```bash
+bash qrlink.sh <link> <path>
+```

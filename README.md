@@ -51,4 +51,11 @@ bash qrlink.sh https://google.com /sdcard/google.png
 ```bash
 bash qrlink.sh
 ```
-
+## Social Media Links
+* [YouTube](https://youtube.com/channel/UCfMjNcFvJae_9g7wQI2W7EA)
+* [Facebook](https://www.facebook.com/whitehacks00 "WHITE HACKS")
+* [TikTok](https://tiktok.com/@whitehacks00 "WHITE HACKS")
+* [Telegram](https://t.me/whitehacks00 "WHITE HACKS")
+* [WhatsApp](https://wa.me/+593981480757 "Darkmux")
+# Coded by: @Darkmux
+# © WHITE HACKS

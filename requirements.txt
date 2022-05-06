@@ -1,0 +1,3 @@
+pypng
+qrcode[pil]
+qrcode

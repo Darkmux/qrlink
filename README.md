@@ -1,14 +1,14 @@
 # QRLink - Enlace a Código QR
 Generator and converter of links to QR codes.
 > This tool can be run on all Linux distributions.
-# Preview in Termux
+## Preview in Termux
 ![QRLink](https://github.com/Darkmux/qrlink/blob/main/images/QRLink.jpg)
-# QR Code Generated
+## QR Code Generated
 ![QRFacebook](https://github.com/Darkmux/qrlink/blob/main/images/facebook.png)
-# Requirements
+## Requirements
 * Linux terminal
 * Python3 installed
-# Installation in Termux
+## Installation in Termux
 > Update Termux repositories.
 ```bash
 yes|pkg update && pkg upgrade
@@ -37,8 +37,11 @@ chmod 777 *.sh
 ```bash
 python3 -m pip install -r requirements.txt
 ```
-# Usage
+## Usage
 > Run the file, assign a link as the first argument and the path to save the image to as the second argument.
 ```bash
 bash qrlink.sh <link> <path>
 ```
+## Example
+```bash
+bash qrlink.sh https://google.com /sdcard/google.png

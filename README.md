@@ -25,3 +25,11 @@ yes|pkg install git
 ```bash
 git clone https://github.com/Darkmux/qrlink
 ```
+> Access the cloned "qrlink" folder.
+```bash
+cd qrlink
+```
+> Grant execute permissions to all files with extension (.sh).
+```bash
+chmod 777 *.sh
+```

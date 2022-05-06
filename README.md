@@ -57,5 +57,5 @@ bash qrlink.sh
 * [TikTok](https://tiktok.com/@whitehacks00 "WHITE HACKS")
 * [Telegram](https://t.me/whitehacks00 "WHITE HACKS")
 * [WhatsApp](https://wa.me/+593981480757 "Darkmux")
-# Coded by: @Darkmux
-# © WHITE HACKS
+## Coded by: @Darkmux
+## © WHITE HACKS

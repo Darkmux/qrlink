@@ -37,11 +37,18 @@ chmod 777 *.sh
 ```bash
 python3 -m pip install -r requirements.txt
 ```
-## Usage
+## Usage:
 > Run the file, assign a link as the first argument and the path to save the image to as the second argument.
 ```bash
 bash qrlink.sh <link> <path>
 ```
-## Example
+## Example:
 ```bash
 bash qrlink.sh https://google.com /sdcard/google.png
+```
+## Or Usage:
+> You can use the tool in the interactive console, to use it you just need to run the main file.
+```bash
+bash qrlink.sh
+```
+
